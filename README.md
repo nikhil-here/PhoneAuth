@@ -1,5 +1,9 @@
 # Firebase User Authentication
  Mobile User Authentication through OTP
+# Code Hightlights
+ 1. Country Code Picker
+ 2. Firebase Phone Authentication
+ 3. Firestore Database
 # Verification Screen
 ![SS1](https://user-images.githubusercontent.com/54818560/82918148-f0f6c580-9f91-11ea-9beb-62f01a2969c6.png)
 # Country Code Picker
