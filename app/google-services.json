@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719285180676",
+    "firebase_url": "https://phoneauth-443ba.firebaseio.com",
+    "project_id": "phoneauth-443ba",
+    "storage_bucket": "phoneauth-443ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719285180676:android:9513964d5e039e820fd851",
+        "android_client_info": {
+          "package_name": "com.intern.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719285180676-j9gv8gqpahge4bgot9j865llkpk7o9nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvG6-of7_6EiNAHE_IlzqqlEP4PCCGYTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719285180676-j9gv8gqpahge4bgot9j865llkpk7o9nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
